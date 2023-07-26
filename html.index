@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width">
+    <title>repl.it</title>
+    <link href="style.css" rel="stylesheet" type="text/css" />
+  </head>
+  <body>
+    <div>
+         <img src="https://gray-wsaw-prod.cdn.arcpublishing.com/resizer/ZwIQmyrMuYMqt_vo2vmmRCU3mQ8=/1200x675/smart/filters:quality(85)/cloudfront-us-east-1.images.arcpublishing.com/gray/BSZOVZKHL5FEHA7FYS6ASQVSZQ.jpg/100x100" alt="Golden Retriever Puppy"
+     id="pic">
+    <h1>Golden Retreiver Puppies</h1>
+    </div>
+    <div id="icons">
+      <!-- TODO: spans for icons -->
+      <span>Icon</span>
+      <span>Icon</span>
+      <span>Icon</span>
+      <span>Icon</span>
+      <div> 
+        <img src=https://static1.squarespace.com/static/54e7a1a6e4b08db9da801ded/t/61eb41b698b5f077a9637a40/1642807755677/81.jpg?format=1500w" alt="Puppy"> 
+    </div>
+    <span> 
+    <div id="mini-layout">
+      <!-- TODO: Spans for 4 item wide mini-layout -->
+        <img src=https://static1.squarespace.com/static/54e7a1a6e4b08db9da801ded/t/61eb41b698b5f077a9637a40/1642807755677/81.jpg?format=1500w" alt="Pics"> 
+        <p>Puppies<p>
+        </div> 
+        <div> 
+        <img src="https://d.newsweek.com/en/full/2251618/golden-retriever-puppies.jpg" alt="Pics"> 
+        <p>Puppies<p>
+        </div> 
+        <div> 
+        <img src="https://a-z-animals.com/media/Golden-Retriever-Canis-familiaris-puppies.jpg" alt="Pics"> 
+        <p>Puppies<p>
+        </div> 
+        <div> 
+        <img src="https://goldenretrieversociety.com/wp-content/uploads/2020/06/How-Much-Does-a-Golden-Retriever-Cost_.png" alt="Pics"> 
+        <p>Puppies<p>
+        </div> 
+    </span> 
+  </body>
+</html>
